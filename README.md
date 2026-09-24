@@ -1,4 +1,4 @@
-# note-service
+# Сервис заметок (Note Service)
 Сервис заметок
 
 
